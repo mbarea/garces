@@ -31,6 +31,7 @@ public class Examen_m8 {
         System.out.println("Carpeta Personal: " + System.getProperty("user.home"));
         System.out.println("Sistema operatiu: " + System.getProperty("os.name"));
         System.out.println("Versió OS: " + System.getProperty("os.version"));
+        //Hasta aqui un 2.5
         } catch (UnknownHostException e) {
         e.printStackTrace();
         }
