@@ -35,7 +35,8 @@ public class Examen_m8 {
         } catch (UnknownHostException e) {
         e.printStackTrace();
         }
-   
+   //he modificat el codi que he baixat del repositori de Marina 
+        //aixo es un examen
        
  }
         
